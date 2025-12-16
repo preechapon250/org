@@ -7,7 +7,7 @@ require (
 	github.com/go-git/go-git/v5 v5.6.1
 	github.com/hound-search/hound v0.7.1
 	github.com/olekukonko/tablewriter v0.0.0-20170122224234-a0225b3f23b5
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/spf13/cobra v1.7.0
 	k8s.io/apimachinery v0.27.4
 	sigs.k8s.io/prow v0.0.0-20240418142548-4c9d8ca1213d
